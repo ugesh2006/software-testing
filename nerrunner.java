@@ -170,3 +170,37 @@ if(driver!=null){
  
  
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+driver.navigate().refresh();
+
+
+
+
+
+executiontype = remote
+browser = chrome
+gridurl = http://localhost:4444
+url = https://www.expedia.co.in/
+
