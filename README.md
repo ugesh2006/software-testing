@@ -1,0 +1,1 @@
+This repository contains simple and beginner-friendly examples of software testing. It includes basic test cases, manual testing samples, and small automation scripts to understand how testing works in real projects.
